@@ -1,3 +1,4 @@
+<img width="1468" alt="image" src="https://github.com/user-attachments/assets/cff9c89a-4b2d-4e63-9485-04f2d85d8e27">
 
 
 # Tic Tac Toe
